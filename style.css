@@ -6,3 +6,12 @@ body {
     background-color: lightblue;
     margin: 50px;
 }
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    line-height: 50px;
+    font-size: 20px;
+}
