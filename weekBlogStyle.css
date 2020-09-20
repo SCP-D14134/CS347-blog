@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    line-height: 50px;
+    font-size: 20px;
+}
+
+a {
+    font-size: 35px;
+}
+
+img {
+    width: 70%;
+    height: 70%;
+}
