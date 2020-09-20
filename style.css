@@ -1,5 +1,5 @@
 body {
-    display: flex;
+    
     height: 100vh;
     justify-content: center;
     align-items: center;
@@ -18,4 +18,9 @@ p {
 
 a {
     font-size: 35px;
+}
+
+img {
+    width: 70%;
+    height: 70%;
 }
